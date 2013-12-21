@@ -1,0 +1,22 @@
+# testing.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+
+ast -v1.1.0
+backports -v3.3.3
+coderay -v1.0.9
+columnize -v0.3.6
+debugger -v1.6.1
+debugger-linecache -v1.2.0
+debugger-ruby_core_source -v1.2.3
+diff-lcs -v1.2.4
+method_source -v0.8.2
+parser -v2.0.0.pre6
+powerpack -v0.0.3
+pry -v0.9.12.2
+pry-debugger -v0.2.2
+rainbow -v1.1.4
+rspec -v2.14.1
+rspec-core -v2.14.4
+rspec-expectations -v2.14.0
+rspec-mocks -v2.14.1
+rubocop -v0.11.1
+slop -v3.4.6
